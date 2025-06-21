@@ -42,7 +42,7 @@ A visually polished and interactive To-Do list app built with **React**, **Tailw
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/todo-dashboard.git
+git clone https://github.com/hindu17/To-Do-dashboard-with-drag-and-drop
 cd todo-dashboard
 
 "# To-Do-dashboard-with-drag-and-drop" 
